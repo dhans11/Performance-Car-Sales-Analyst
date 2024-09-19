@@ -2,8 +2,6 @@
 
 ## 📊 **Performance-Car-Sales-Analyst**
 
-![Data Analysis](https://image-link-here.com/data-analysis-image)
-
 Welcome to the **Data Analysis Project**! This project focuses on analyzing datasets to uncover valuable insights, utilizing a variety of data analysis tools and methodologies.
 
 ---
